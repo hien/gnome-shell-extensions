@@ -1,0 +1,11 @@
+{
+   "shell-version": ["3.4"],
+   "version": "3.0",
+   "uuid": "activitiesbuttonicon@gnome-shell.mrhien.info",
+   "name": "Activities Button Icon", 
+   "description": "Use icon instead of text for Activities button.", 
+   "url": "https://github.com/hien",
+   "authors": "Phan Quoc Hien",
+   "original-authors": "Finnbarr P. Murphy",
+   "localdir": "locale"
+}

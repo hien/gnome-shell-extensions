@@ -1,0 +1,8 @@
+{
+  "shell-version": ["3.4"], 
+  "uuid": "pidgin.status@gnome-shell.mrhien.info", 
+  "name": "Pidgin Icon", 
+  "url":  "https://github.com/hien",
+  "authors": "Phan Quoc Hien",
+  "description": "Integrates Pidgin into the status bar"
+}
